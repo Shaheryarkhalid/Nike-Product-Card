@@ -1,2 +1,2 @@
-# Product-Card
-Simple Beautiful  Product Card
+# Nike-Product-Card
+Simple Beautiful Animated & Interactive Nike Product Card
